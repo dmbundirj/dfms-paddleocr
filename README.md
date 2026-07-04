@@ -1,2 +1,2 @@
-# dfms-paddleocr
+# dfms
 District Followup Monitoring System
